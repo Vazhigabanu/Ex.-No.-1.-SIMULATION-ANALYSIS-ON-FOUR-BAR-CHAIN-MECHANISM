@@ -20,21 +20,34 @@
 ###  ●	Geometry instruments.
 
 ## PROCEDURE:
-###   1. Draw a horizontal line AD of length 120 mm. 
-###   2. At A, Draw a line AB of length 30 mm at an angle of 600 
-###   3. With B as centre, BC = AD = 120mm draw an arc 
-###   4. With D as centre, CD = 60 mm draw another arc 
-###   5. Join BC and DC 
+Start the Acceleration Analysis of Grashof Four Bar Mechanism simulation in the virtual laboratory.
 
+In the Variables section, set the following values:
+
+r1 = 120 mm
+
+r2 = 30 mm
+
+r3 = 120 mm
+
+r4 = 60 mm
+
+Set the input crank angle θ₂ = 60° using the slider control.
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
 
-###   This value of VBA is used to decide the scale for the velocity diagram 
-###   Let us construct the velocity diagram taking a scale: 
-###   0.3141 m/s = 60 mm (say) 
-###   1. The fixed link AD, appears as a point in the velocity diagram 
-###   2. From a, draw ab = 60mm, perpendicular to AB in configuration diagram and in the direction of velocity (downward direction) 
-###   3. From b, draw vector bc perpendicular to BC
-###   4. From (a,d), draw vector cd perpendicular to CD. This will intersect the previous vector at c.  
+Press the Play button to run the simulation and observe the motion of the four-bar mechanism.
+
+The results will be displayed in the table showing values of θ, angular velocity (ω), velocity (V), angular acceleration (α), centripetal acceleration (Ac), tangential acceleration (At), and total acceleration (A).
+
+Verify the obtained results:
+
+Link r2: Ac = 3288.63 mm/s², A = 3288.63 mm/s²
+
+Link r3: Ac = 119.83 mm/s², At = 2402.86 mm/s², A = 2405.85 mm/s²
+
+Link r4: Ac = 980.49 mm/s², At = 2287.99 mm/s², A = 2489.23 mm/s²
+
+Record the observed data and analyze the acceleration characteristics of the Grashof four-bar mechanism 
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/76094ae8-a8af-48f3-b2c4-472ab800cc8e)
 
