@@ -54,9 +54,13 @@
 
 ## Output:
 
+<img width="1907" height="849" alt="Screenshot 2026-03-10 230948" src="https://github.com/user-attachments/assets/bf92123b-3088-483d-bf49-4caabdf14d6a" />
 
-### Name:
-### Register Number: 
+
+<img width="1916" height="980" alt="Screenshot 2026-03-10 231003" src="https://github.com/user-attachments/assets/8274936b-5f9e-4005-ad5a-0d8cac0ae7a9" />
+
+### Name: VAZHIGA BANU S
+### Register Number: 212225040484
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
